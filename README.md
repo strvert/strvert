@@ -5,6 +5,9 @@
 <p>Software created for fun, code written for learning, scripts to try out features, and occasionally the results of work.
 This is a junk yard where codes of various genres are placed.</p>
 
+<p>
+遊びで作ったソフト、勉強のために書いたコード、機能を試すためのスクリプト、ときには仕事の成果も。ここは様々なジャンルのコードからなるがらくた置き場です。
+</p>
 
 <!--
 **strvworks/strvworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
