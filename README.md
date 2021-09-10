@@ -1,6 +1,6 @@
 <h1>Hi. This is a place for many little things.</h1>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&private=false&username=strvworks&theme=radical&langs_count=10&hide=c" alt="most used language stat" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&private=false&username=strvert&theme=radical&langs_count=10&hide=c" alt="most used language stat" align="left">
 
 <p>Software created for fun, code written for learning, scripts to try out features, and occasionally the results of work.
 This is a junk yard where codes of various genres are placed.</p>
